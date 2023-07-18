@@ -1,0 +1,16 @@
+form{
+    display: flex;
+    gap:0;
+    align-items: center;
+
+    justify-content: center;
+    margin-top: 50px;
+    border: 1px solid black;
+    /* max-width: fit-content; */
+    
+    padding: 20px;
+}
+input{
+    padding: 10px;
+}
+  
